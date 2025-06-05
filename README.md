@@ -1,7 +1,3 @@
-Thanks for sharing your notebook. Based on the contents and initial code/markdown, here’s a **clean and professional `README.md`** you can use on GitHub for your traffic prediction project:
-
----
-
 # Traffic Prediction Using GRU and Reinforcement Learning
 
 Traffic congestion is a growing concern in urban areas due to increasing populations and limited infrastructure. This project leverages deep learning and reinforcement learning techniques to predict traffic flow and adapt signal timing dynamically, aiming to reduce congestion and improve mobility.
